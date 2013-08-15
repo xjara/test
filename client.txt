@@ -3,9 +3,9 @@ client code
 a
 b
 c
-d
-e
-f
+X
+X
+X
 g
 h
 
