@@ -2,10 +2,11 @@ client code
 
 a
 b
-c
-d
+>>>>>>pavel
+>>>>>>pavel
 YYYYYYYYYYYYYY pavel
 f
 g
 pavel
 
+last edited by pavel
