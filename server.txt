@@ -6,8 +6,8 @@ pavel
 4
 5
 XXXXXXX
-XXXXXXXX
-XXXXXXXXX
+>>> peter
+>>> peter
 9
 10
 
