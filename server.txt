@@ -5,11 +5,12 @@ pavel
 3
 4
 5
-peter
-pavel
-pavel
+XXXXXXX
+XXXXXXXX
+XXXXXXXXX
 9
 10
 
-nazdar martine
+
+peter added XXX strings
 
