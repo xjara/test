@@ -16,3 +16,5 @@ peter added XXX strings
 
 for last time the file was addeted by pavel
 
+new line
+
