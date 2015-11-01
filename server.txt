@@ -28,7 +28,7 @@ from test_branch
 
 new line
 
-
+local change at 12:50
 
 new change in master
 
